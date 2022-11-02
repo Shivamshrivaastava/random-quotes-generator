@@ -1,3 +1,1 @@
 # random-quotes-generator
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-7sbzfg)
